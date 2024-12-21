@@ -27,6 +27,7 @@ public class Pavan {
 	        d.findElement(By.id("password")).sendKeys("secret_sauce");
 	        d.findElement(By.id("login-button")).click();
 	        System.out.println("test");
+	        System.out.println("test1"); 
 }   
 	
 	@Test
