@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T23:10:37 IST" name="Suitenew" finished-at="2024-12-20T23:10:48 IST" duration-ms="11485">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T23:10:37 IST" name="Test" finished-at="2024-12-20T23:10:48 IST" duration-ms="11485">
+      <class name="pk.Pavan">
+        <test-method is-config="true" signature="login()[pri:0, instance:pk.Pavan@36ebc363]" started-at="2024-12-20T23:10:37 IST" name="login" finished-at="2024-12-20T23:10:48 IST" duration-ms="10884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="verifyTitle()[pri:0, instance:pk.Pavan@36ebc363]" started-at="2024-12-20T23:10:48 IST" name="verifyTitle" finished-at="2024-12-20T23:10:48 IST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:pk.Pavan@36ebc363]" started-at="2024-12-20T23:10:48 IST" name="logout" finished-at="2024-12-20T23:10:48 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- pk.Pavan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suitenew -->
+</testng-results>
